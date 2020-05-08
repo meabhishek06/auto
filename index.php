@@ -1,5 +1,5 @@
 <?php
 print"b1";
-printttpreg"asc"Cd
+print "asc";
 print "vrf";
 ?>
